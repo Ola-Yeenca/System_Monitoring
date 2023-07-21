@@ -12,9 +12,8 @@ System Monitoring is a Python script that allows you to monitor your system's re
 
 ## Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine: [ git clone https://github.com/Ola-Yeenca/System_Monitoring.git]
    ```bash
-  [ git clone https://github.com/Ola-Yeenca/System_Monitoring.git]
    ```
 
 2. Navigate to the project directory:
