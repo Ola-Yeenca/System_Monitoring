@@ -1,6 +1,5 @@
 # System Monitoring
 
-![System Monitoring](system_monitoring.png)
 
 System Monitoring is a Python script that allows you to monitor your system's resource usage in real-time. The script displays CPU usage, memory usage, disk usage, and network usage. It provides a Tkinter-based GUI interface for easy monitoring, real-time feedback, and notifications.
 
